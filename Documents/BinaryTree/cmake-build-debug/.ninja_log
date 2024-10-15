@@ -1,0 +1,21 @@
+# ninja log v6
+29	1314	7501327922257824	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+1319	1696	7501327935155712	EstructurasDatosNoLineales.exe	7619417752745bdc
+66	1181	7501357872532334	CMakeFiles/EstructurasDatosNoLineales.dir/BinaryTree.cpp.obj	8afecf966ffde534
+51	1189	7501357872385965	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+35	946	7501358894525101	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+56	982	7501359839161840	CMakeFiles/EstructurasDatosNoLineales.dir/BinaryTree.cpp.obj	8afecf966ffde534
+43	999	7501359839029415	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+34	883	7501363609812600	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+43	889	7501363609913465	CMakeFiles/EstructurasDatosNoLineales.dir/BinaryTree.cpp.obj	8afecf966ffde534
+41	771	7501364039446206	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+772	972	7501364046829706	EstructurasDatosNoLineales.exe	cb17ddd02213a911
+36	815	7501364200564177	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+817	1047	7501364208374367	EstructurasDatosNoLineales.exe	cb17ddd02213a911
+29	895	7501367815939028	CMakeFiles/EstructurasDatosNoLineales.dir/BinaryTree.cpp.obj	8afecf966ffde534
+17	913	7501367815817856	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+43	875	7501370655297998	CMakeFiles/EstructurasDatosNoLineales.dir/main.cpp.obj	750c402bed67bfbd
+37	769	7501370826158902	CMakeFiles/EstructurasDatosNoLineales.dir/BinaryTree.cpp.obj	8afecf966ffde534
+770	1010	7501370833491059	EstructurasDatosNoLineales.exe	cb17ddd02213a911
+36	789	7501371897873328	CMakeFiles/EstructurasDatosNoLineales.dir/BinaryTree.cpp.obj	8afecf966ffde534
+790	1044	7501371905420265	EstructurasDatosNoLineales.exe	cb17ddd02213a911
